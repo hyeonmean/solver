@@ -153,4 +153,3 @@ solver-frontend
 - [Jira 이슈 관리](./docs/Jira-이슈-관리.md)
 - [AWS EC2 환경 설정](./docs/AWS-EC2.md)
 - [공통코드-메타데이터](./docs/공통코드-메타데이터.md)
-- [API](./docs/API.md)
