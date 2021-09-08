@@ -134,13 +134,13 @@ solver-frontend
 ## 4️⃣ 프로젝트 산출물
 > 프로젝트 기간 중 꾸준히 업데이트하는 목록입니다.
 - [프로젝트 메모 및 공유 : Notion](https://danghyeona.notion.site/Solver-1b2691348e2d4334a4deb5699167ef59)
-- [프로젝트 회의록](./산출물/회의록.md)
+- [프로젝트 회의록](./docs/회의록.md)
 
 <br>
 
 ### Sub2 산출물
 > Sub2를 기준으로 완료된 산출물입니다.
-- [프로젝트 컨벤션 목록](./산출물/컨벤션목록.md)
+- [프로젝트 컨벤션 목록](./docs/컨벤션목록.md)
 - [프로젝트 스토리보드 및 디자인](./산출물/디자인스토리보드.md)
 - [기획서](./산출물/기획서.md)
 - [API Docs](https://www.notion.so/danghyeona/API-961534ee05374f65ad6fb75d55167f65)
